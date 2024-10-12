@@ -48,8 +48,9 @@ Dive into Kubernetes, the leading container orchestration platform. This section
 ## **How to Use This Repository**
 
 1. Clone the repository:
-
+```
 git clone https://github.com/akintunero/understanding-docker-and-k8s.git
+```
 
 2. Navigate to the specific subdirectory of interest (e.g., `Docker Compose`, `Kubernetes`).
 3. Follow the guides and examples provided in each section.
