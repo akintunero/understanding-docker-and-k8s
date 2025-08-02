@@ -76,7 +76,7 @@ This repository contains a complete curriculum designed to take you from beginne
 
 ### 🖼️ Assets Section
 - [📊 Diagrams](assets/diagrams/)
-- [🖼️ Images](assets/images/)
+
 
 ## 🎯 Learning Paths
 
@@ -103,27 +103,7 @@ This repository contains a complete curriculum designed to take you from beginne
 - Build real applications
 - Practice deployment
 
-## 🛠️ Technology Stack
 
-### Programming Languages
-- JavaScript/Node.js
-- Python
-- Go
-- Java
-- PHP
-
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- Elasticsearch
-
-### Cloud Platforms
-- AWS, Azure, GCP
-- Kubernetes (EKS, AKS, GKE)
-- Docker Swarm
-- OpenShift
 
 ## 🎓 Certification Preparation
 
